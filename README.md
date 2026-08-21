@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🌟 GitHubIntras 🌟</h1>
+  <h1>🌟 Agricultural Yield & Income Predictor 🌟</h1>
   <p><b>Data Analysis, Preprocessing & Predictive Modeling</b></p>
   <img src="https://img.shields.io/badge/Python-3.8+-blue.svg" alt="Python Version" />
   <img src="https://img.shields.io/badge/Jupyter-Notebook-orange.svg" alt="Jupyter Notebook" />
@@ -8,7 +8,7 @@
 
 ## 📖 Overview
 
-Welcome to the **GitHubIntras** repository! This project contains comprehensive data exploration, preprocessing, and machine learning models tailored for the KDAG Intras problem statement. 
+Welcome to the **Agricultural Yield & Income Predictor** repository! This project contains comprehensive data exploration, preprocessing, and machine learning models tailored for the KDAG Intras problem statement. 
 
 ## 🚀 Features
 
@@ -28,8 +28,8 @@ Welcome to the **GitHubIntras** repository! This project contains comprehensive 
 Clone this repository and explore the notebooks:
 
 ```bash
-git clone https://github.com/ASMITSARKAR/GitHubIntras.git
-cd GitHubIntras
+git clone https://github.com/ASMITSARKAR/Agricultural-Yield-Income-Predictor.git
+cd Agricultural-Yield-Income-Predictor
 jupyter notebook
 ```
 
